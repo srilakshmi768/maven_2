@@ -31,7 +31,7 @@
     <tasks>
     <echo>using env.test.properties</echo>
     </tasks>
-    <configuration>
+    </configuration>
     </execution>
     </executions>
     </plugin>
